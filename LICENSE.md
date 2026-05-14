@@ -1,4 +1,4 @@
-# 
+# new dex market making bot Module | impermanent-loss-protection + sniper-trades offers the most advanced dex market making bot, with impermanent-loss-protection and sniper-trades.
 
 
 
